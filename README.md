@@ -19,3 +19,10 @@ All code examples are written in Python 3.8+ and use only standard library modul
 
 ```bash
 python --version  # Should be 3.8 or higher
+cd chapter01
+python listing_1_1_ai_augmented_recon.py      # Runs AI-augmented reconnaissance
+python listing_1_2_ai_red_team_pipeline.py    # Runs AI red team pipeline
+
+cd chapter02
+python listing_2_1_threatspec_example.py      # Runs ThreatSpec security demo
+```
